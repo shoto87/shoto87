@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm [Your Name]
+# 👋 Hello there! I'm shoto
 
 Welcome to my GitHub profile! 🎉 I'm a passionate developer with a knack for creating cool apps and websites. When I'm not coding, you can find me doodling away in my sketchbook or lost in a video game world. 🎮✍️
 

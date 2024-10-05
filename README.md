@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate developer with a knack for c
 - 🌱 I’m currently learning **Next.js, MERN, Three.js, Flutter, and React Native**
 - 👯 I’m looking to collaborate on **exciting projects that push the boundaries of creativity and technology!**
 - 🤔 I’m often asked about **how I juggle all these programming languages without losing my mind!**
-- 💬 Ask me about **web development, game development, or my favorite coding snacks!**
+- 💬 Ask me about **web development, App devlopment, game development, or my favorite coding snacks!**
 - ⚡ Fun fact: I once tried to teach my cat to code... let's just say it didn't go well. 🐱💻
 
 ## 💻 My Skills

@@ -19,8 +19,6 @@ Welcome to my GitHub profile! 🎉 I'm a passionate developer with a knack for c
 ## 📫 How to Reach Me
 
 - 💌 Email: [iampratik70@gmail.com](mailto:iampratik70@gmail.com)
-#- 💬 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-#- 🌐 Portfolio: [yourportfolio.com](http://yourportfolio.com)
 
 Feel free to explore my repositories and connect with me! I promise not to bite (unless I’m debugging)! 🐾💻
 

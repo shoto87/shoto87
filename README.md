@@ -1,26 +1,28 @@
-# 👋 Hello, I'm Shoto! 
+# 👋 Hello, I'm Shoto!
 
-Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves to build creative apps and websites. When I'm not deep into coding, you'll probably find me doodling in my sketchbook or immersed in the latest video games. 🎮✍️
+Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves building creative apps and websites. When I'm not coding, you'll probably find me doodling in my sketchbook or immersed in the latest video games. 🎮✍️
 
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently exploring **Next.js, MERN, Three.js, Flutter, and React Native**
-- 👯 Looking to collaborate on **exciting projects that blend creativity and technology!**
-- 🤔 Often asked about **how I manage to juggle multiple programming languages without losing track!**
-- 💬 Feel free to ask me about **web development, app development, game development, or my go-to coding snacks!**
+- 👯 Open to collaborating on **innovative projects that combine creativity and technology**
+- 🤔 People often ask how I juggle multiple programming languages without losing track!
 - ⚡ Fun fact: I once tried to teach my cat how to code... let's just say it didn’t go as planned. 🐱💻
+- 🎯 **Goal**: To create user-focused, impactful digital experiences
 
 ---
 
-## 💻 My Skills
+## 💻 Tech Stack
 
-- **Languages**: ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### Languages & Frameworks
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
 
-- **Frameworks/Libraries**: ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
-
-- **Currently Learning**: ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![MERN](https://img.shields.io/badge/-MERN-61DAFB?logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
+### Currently Learning
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![MERN](https://img.shields.io/badge/-MERN-61DAFB?logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
 
 ---
 
@@ -35,8 +37,7 @@ A handy tool for generating beautiful color palettes categorized by styles like 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shoto87&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shoto87&show_icons=true&theme=dark&hide_border=true)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoto87&layout=compact&theme=dark&hide_border=true)](https://github.com/shoto87)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shoto87&show_icons=true&theme=dark&hide_border=true)
 
 ---
 

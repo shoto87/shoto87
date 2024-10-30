@@ -27,3 +27,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves to build
 Feel free to explore my repositories and connect with me! I promise not to bite (unless I’m debugging)! 🐾💻
 
 Thanks for stopping by! 😄
+## GitHub Streak 🟢
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shoto87&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+

@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves building
 - 🌱 Currently exploring **Next.js, MERN, Three.js, Flutter, and React Native**
 - 👯 Open to collaborating on **innovative projects that combine creativity and technology**
 - 🤔 People often ask how I juggle multiple programming languages without losing track!
-- ⚡ Fun fact: I once tried to teach my cat how to code... let's just say it didn’t go as planned. 🐱💻
+- ⚡ Fun fact: I once tried to teach my cat how to code.... let's just say it didn’t go as planned. 🐱💻
 - 🎯 **Goal**: To create user-focused, impactful digital experiences
 
 ---

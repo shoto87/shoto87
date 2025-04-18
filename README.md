@@ -41,7 +41,7 @@ A handy tool for generating beautiful color palettes categorized by styles like 
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shoto87&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shoto87&theme=highcontrast&hide_border=true&border_radius=10)
 
 
 ---

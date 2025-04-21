@@ -1,3 +1,4 @@
+
 # 👋 Hello, I'm Shoto!
 
 Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves building creative apps and websites. When I'm not coding, you'll probably find me doodling in my sketchbook or immersed in the latest video games. 🎮✍️
@@ -7,6 +8,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves building
 ## 🚀 About Me
 
 - 🌱 Currently exploring **Next.js, MERN, Three.js, Flutter, and React Native**
+- 🎮 Interested in learning **Game Design** and **OS Development** in the future
 - 👯 Open to collaborating on **innovative projects that combine creativity and technology**
 - 🤔 People often ask how I juggle multiple programming languages without losing track!
 - ⚡ Fun fact: I once tried to teach my cat how to code.... let's just say it didn’t go as planned. 🐱💻
@@ -32,17 +34,12 @@ Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves building
 A handy tool for generating beautiful color palettes categorized by styles like Modern, Classic, Vibrant, and more! Perfect for designers, developers, and anyone looking to enhance their creative toolkit.
 
 ---
- 
 
 ## 🌟 GitHub Stats
 
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shoto87&show_icons=true&theme=dark&hide_border=true)
 
-
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shoto87&theme=highcontrast&hide_border=true&border_radius=10)
-
 
 ---
 

@@ -1,5 +1,5 @@
 
-# 👋 Yow, Shoto here!
+# 👋 yow, shoto here!
 
 Welcome to my GitHub profile! 🎉 I'm a passionate developer who loves building creative apps and websites. When I'm not coding, you'll probably find me doodling in my sketchbook or immersed in the latest video games. 🎮✍️
 
